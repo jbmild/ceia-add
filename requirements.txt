@@ -1,0 +1,13 @@
+# tp_final.ipynb
+pandas
+numpy
+matplotlib
+seaborn
+missingno
+kagglehub
+scipy
+scikit-learn
+
+# notebook environment
+jupyter
+ipykernel
